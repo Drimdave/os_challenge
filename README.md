@@ -11,7 +11,7 @@ This project is a Flask-based API that provides endpoints for recording JSON pay
 
 1. **Clone the Repository:**
     ```bash
-    git clone <(https://github.com/Drimdave/os_challenge)>
+    git clone <https://github.com/Drimdave/os_challenge>
     cd <os_challenge>
     ```
 
